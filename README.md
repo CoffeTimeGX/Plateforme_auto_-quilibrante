@@ -17,7 +17,7 @@ Ces différentes exigences seront ainsi assumées par le choix du matériel ains
 # Flot de conception
 Le flot de conception fut entièrement mathématique, logiciel et mécanique, en raison d'un manque de matériel. Le code fut la première étape de conception du projet et cela a été fait en amont de la réception des pièces (qui n'a pas eu lieu).
 
-Ainsi, le rendu du projet ne sera pas complet pour cette même raison, et la majeure partie de la présentation sera logicielle et mécanique, sans la partie électronique donc.
+Ainsi, le rendu du projet ne sera pas complet pour cette même raison, et la majeure partie de la présentation sera logicielle et mécanique, sans la partie électronique donc. En raison de l'absence d'électronique, je me suis référé à divers tutoriels pour implémenter les divers composants que j'ai choisi pour ce projet, ainsi que les exemples des librairies.
 
 Ainsi, ce flot de conception visera à présenter une liste d'étape, implémentable pour divers projets d'électronique et de mécanique, et qui permettra la réalisation d'un tel projet de manière reproductible.
 
